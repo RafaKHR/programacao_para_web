@@ -1,7 +1,7 @@
 const lc = require('./letter_case/letter_case');
 
 
-//npm init, npm install express@4.18.2
+//npm init -y , npm install express@4.18.2
 
 
 const express = require('express');
